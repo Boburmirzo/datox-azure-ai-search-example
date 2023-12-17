@@ -1,6 +1,6 @@
 import pandas as pd
 import uuid
-import openai
+from openai import AzureOpenAI
 import os
 from dotenv import load_dotenv
 from azure.core.credentials import AzureKeyCredential  
@@ -18,20 +18,20 @@ from azure.search.documents.indexes.models import (
 
 load_dotenv()
 
-service_endpoint = os.getenv("AZURE_SEARCH_SERVICE_ENDPOINT") 
-search_service_admin_key = os.environ.get("AZURE_SEARCH_ADMIN_KEY")
-
 openai_embedding_mode_deployment_name = os.environ.get("AZURE_OPENAI_EMB_DEPLOYMENT")
-openai.api_key =  os.environ.get("AZURE_OPENAI_API_KEY")
-openai.api_base =  os.environ.get("AZURE_OPENAI_ENDPOINT")
-openai.api_type = "azure"
-openai.api_version = "2023-05-15"
+openai_client = AzureOpenAI(azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT"),
+                            api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
+                            api_version="2023-05-15")
 
+search_service_endpoint = os.getenv("AZURE_SEARCH_SERVICE_ENDPOINT") 
+search_service_admin_key = os.environ.get("AZURE_SEARCH_ADMIN_KEY")
 credential = AzureKeyCredential(search_service_admin_key)
+
 index_name = "balance-sheet-index"
+
 # Create a search index
 index_client = SearchIndexClient(
-    endpoint=service_endpoint, credential=credential)
+    endpoint=search_service_endpoint, credential=credential)
 fields = [
     SimpleField(name="id", type=SearchFieldDataType.String, key=True, sortable=True, filterable=True, facetable=True),
     SearchableField(name="fundtitle", type=SearchFieldDataType.String),
@@ -62,13 +62,13 @@ index = SearchIndex(name=index_name, fields=fields,
 result = index_client.create_or_update_index(index)
 print(f' {result.name} created')
 
-azcs_search_client = SearchClient(service_endpoint, index_name =index_name, credential=credential)
+azcs_search_client = SearchClient(search_service_endpoint, index_name=index_name, credential=credential)
 
 
 def generate_embeddings(text):
-    response = openai.Embedding.create(
-        input=text, engine=openai_embedding_mode_deployment_name)
-    embeddings = response['data'][0]['embedding']
+    response = openai_client.embeddings.create(input=text,
+                                               model=openai_embedding_mode_deployment_name)
+    embeddings = response.data[0].embedding
     return embeddings
 
 
