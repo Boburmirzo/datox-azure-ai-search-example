@@ -99,6 +99,7 @@ for index, row in dataframe1.iterrows():
         "fundRow": row_as_str,
         "fundRowVector": fund_row_emb
     }
+    print(row_as_str)
     fund_list.append(fund_document)
         
 add_or_update(fund_list)

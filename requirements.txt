@@ -4,3 +4,4 @@ azure-search-documents==11.4.0b9
 openai
 pandas
 openpyxl
+tabulate

@@ -1,0 +1,1137 @@
+{"Unnamed: 10": "Account number Multiple Accounts"}
+{}
+{"My Report Library": "01 Jan 23 - 30 Mar 23"}
+{}
+{"Unnamed: 16": "Page 1 of 23"}
+{"My Report Library": "u", "Unnamed: 3": "Balance Sheet"}
+{}
+{}
+{"Unnamed: 0": "Description", "Unnamed: 5": "2023-01-01T00:00:00", "Unnamed: 8": "Net Change", "Unnamed: 14": "2023-03-30T00:00:00", "Unnamed: 16": "For More Information"}
+{"Unnamed: 0": "4536923 -  ALPHA FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 2298013376.4949694, "Unnamed: 8": -952448963.2671959, "Unnamed: 14": 1345564413.2277734, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 23112571.233536202, "Unnamed: 8": -15536819.869679559, "Unnamed: 14": 7575751.3638566425, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 2377397.240878613, "Unnamed: 8": -1153701.657978252, "Unnamed: 14": 1223695.5829003612, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 724895.8324817761, "Unnamed: 8": 989707.6691607197, "Unnamed: 14": 1714603.5016424959, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Accrued Gross Withholding", "Unnamed: 5": -4687.220658429432, "Unnamed: 8": 767.5174114275469, "Unnamed: 14": -3919.703247001885, "Unnamed: 16": "See Accrued Net Withholding"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 130949.21232198588, "Unnamed: 8": 2619750.4457994215, "Unnamed: 14": 2750699.6581214075, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Securities Sold", "Unnamed: 5": 10409783.82738785, "Unnamed: 8": -4136543.9223498274, "Unnamed: 14": 6273239.905038023, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 2151580.5215219967, "Unnamed: 8": 462220.8609960289, "Unnamed: 14": 2613801.3825180256, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 1138879.9303855952, "Unnamed: 8": 326883.783874281, "Unnamed: 14": 1465763.7142598762, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 2338054747.072825, "Unnamed: 8": -968876698.4399617, "Unnamed: 14": 1369178048.6328633}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -3319497.603508505, "Unnamed: 8": -829542.9473038581, "Unnamed: 14": -4149040.550812363, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -626748.521379059, "Unnamed: 8": 234275.89430933964, "Unnamed: 14": -392472.6270697193}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": -130735.67711500768, "Unnamed: 8": -2633683.3699323903, "Unnamed: 14": -2764419.047047398, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -2004657.1786622521, "Unnamed: 8": 2004657.1786622521, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": -8786262.525537252, "Unnamed: 8": 4469531.725221147, "Unnamed: 14": -4316730.800316106, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -14867901.506202074, "Unnamed: 8": 3245238.4809564874, "Unnamed: 14": -11622663.025245586}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 2323186845.5666227, "Unnamed: 8": -181114975.45900512, "Unnamed: 14": 2142071870.1076176}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 1238230787.9337978, "Unnamed: 8": 238090703.6208198, "Unnamed: 14": 1476321491.5546176, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 302722.5576065236, "Unnamed: 8": -954242.527858143, "Unnamed: 14": -651519.9702516194, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -386709300.5635354, "Unnamed: 8": -689824474.4199228, "Unnamed: 14": -1076533774.9834583, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 254608.96393505682, "Unnamed: 8": 110288.46571119147, "Unnamed: 14": 364897.4296462483}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -38292.03481033858, "Unnamed: 8": -17108.69924680738, "Unnamed: 14": -55400.73405714596}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -1579417.6217499922, "Unnamed: 8": -301409.1227960556, "Unnamed: 14": -1880826.7445460479}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -317417.3017644233, "Unnamed: 8": 317417.3017644233, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 6254230.4430054, "Unnamed: 14": 6254230.4430054}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 500336010.24159163, "Unnamed: 8": -500336010.24159163, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 881109227.5954069, "Unnamed: 14": 881109227.5954069}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 1010961660.2906736, "Unnamed: 8": -136938693.25173318, "Unnamed: 14": 874022967.0389404, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -38254516.89912158, "Unnamed: 8": 21375095.37743581, "Unnamed: 14": -16879421.52168577}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 2323186845.5666227, "Unnamed: 8": -181114975.45900512, "Unnamed: 14": 2142071870.1076176}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 852078818.891804, "Unnamed: 8": -452577724.86125004, "Unnamed: 14": 399501094.03055394}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 1310164287.437832, "Unnamed: 8": -46530605.385142565, "Unnamed: 14": 1263633682.0526896}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 877311674.1777459, "Unnamed: 8": -61881389.45988834, "Unnamed: 14": 815430284.7178576}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 1.744538238232247, "Unnamed: 8": 0.31632548409576944, "Unnamed: 14": 2.0608637223280164}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 1.7458066161484997, "Unnamed: 8": 0.3174717380865002, "Unnamed: 14": 2.063278354235}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 877311674.1777459, "Unnamed: 8": -61881389.45988834, "Unnamed: 14": 815430284.7178576}
+{"Unnamed: 0": "Yield", "Unnamed: 5": -0.19105053535209998, "Unnamed: 8": 4.5764976837071, "Unnamed: 14": 4.3854471483549995}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "6436946 -  GROWTH FND", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Assets", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 453040766.0434484, "Unnamed: 8": 90204262.99865907, "Unnamed: 14": 543245029.0421075, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 1646239.456994743, "Unnamed: 8": 743964.771926594, "Unnamed: 14": 2390204.228921337, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 3188064.6512310077, "Unnamed: 8": -3188064.6512310077, "Unnamed: 14": 0, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Securities Sold", "Unnamed: 5": -3188064.6512310077, "Unnamed: 8": 3188064.6512310077, "Unnamed: 14": 0, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 454687005.50044316, "Unnamed: 8": 90948227.7705856, "Unnamed: 14": 545635233.2710288}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -503414.21447103604, "Unnamed: 8": -116678.84130865714, "Unnamed: 14": -620093.0557796932, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -382.6017548658124, "Unnamed: 8": -167.64241703279765, "Unnamed: 14": -550.24417189861}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -3837872.7745885802, "Unnamed: 8": 3837872.7745885802, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -4341669.5908144815, "Unnamed: 8": 3721026.29086289, "Unnamed: 14": -620643.2999515918}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 450345335.9096286, "Unnamed: 8": 94669254.06144857, "Unnamed: 14": 545014589.9710772}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 523708337.53812385, "Unnamed: 8": 103638429.20515978, "Unnamed: 14": 627346766.7432836, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 968471.2129594309, "Unnamed: 8": 202603.79755639075, "Unnamed: 14": 1171075.0105158216, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -126225083.99410117, "Unnamed: 8": -24867414.229027152, "Unnamed: 14": -151092498.22312832, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -585.6752980461049, "Unnamed: 8": -261.3122341146302, "Unnamed: 14": -846.9875321607351}
+{}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -2940.037160836497, "Unnamed: 8": -561.0637803658778, "Unnamed: 14": -3501.100941202375}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": 2214065.3976191133, "Unnamed: 8": -2214065.3976191133, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 2025965.2439605298, "Unnamed: 14": 2025965.2439605298}
+{}
+{}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": -3495593.229989202, "Unnamed: 8": 3495593.229989202, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": -3815500.0959934476, "Unnamed: 14": -3815500.0959934476}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 53178664.69747554, "Unnamed: 8": 16204464.683436826, "Unnamed: 14": 69383129.38091236, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 450345335.9096286, "Unnamed: 8": 94669254.06144857, "Unnamed: 14": 545014589.9710772}
+{}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 398451724.7569821, "Unnamed: 8": 78973618.77368903, "Unnamed: 14": 477425343.5306711}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 401508340.8029676, "Unnamed: 8": 74743763.08714879, "Unnamed: 14": 476252103.8901164}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 365685828.61856014, "Unnamed: 8": 72099141.67202538, "Unnamed: 14": 437784970.2905855}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.8113118106322379, "Unnamed: 8": 0.16536157621228786, "Unnamed: 14": 0.9766733868445258}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.8103177878726999, "Unnamed: 8": 0.16248265290730002, "Unnamed: 14": 0.9728004407799999}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 365685828.61856014, "Unnamed: 8": 72099141.67202538, "Unnamed: 14": 437784970.2905855}
+{"Unnamed: 0": "Yield", "Unnamed: 5": 169.9295692714506, "Unnamed: 8": -170.2826016894756, "Unnamed: 14": -0.353032418025}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "64400453 -  RETURN FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 158713227.38579088, "Unnamed: 8": 32349489.938154936, "Unnamed: 14": 191062717.32394582, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 596194.4285274501, "Unnamed: 8": 247211.51130077278, "Unnamed: 14": 843405.9398282229, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 1395911.5205161085, "Unnamed: 8": -1395911.5205161085, "Unnamed: 14": 0, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 160705333.33483443, "Unnamed: 8": 31200789.92893961, "Unnamed: 14": 191906123.26377404}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -191929.0384172449, "Unnamed: 8": -33356.85751881328, "Unnamed: 14": -225285.8959360582, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -220.53819729127238, "Unnamed: 8": -122.4602548969726, "Unnamed: 14": -342.998452188245}
+{}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -192149.57661453617, "Unnamed: 8": -33479.31777371024, "Unnamed: 14": -225628.8943882464}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 160513183.7582199, "Unnamed: 8": 31167310.61116588, "Unnamed: 14": 191680494.36938578}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 270943587.7477353, "Unnamed: 8": 51705684.415358365, "Unnamed: 14": 322649272.1630937, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 9450977.696313147, "Unnamed: 8": 1803583.0788405258, "Unnamed: 14": 11254560.775153672, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -111614954.08263251, "Unnamed: 8": -21300107.67113848, "Unnamed: 14": -132915061.75377099, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -288.9672286947987, "Unnamed: 8": -143.36411558346134, "Unnamed: 14": -432.33134427826}
+{}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -2446.1912907998035, "Unnamed: 8": -466.8204032916815, "Unnamed: 14": -2913.011694091485}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -6460000.05267692, "Unnamed: 8": 6460000.05267692, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": -7912165.024003226, "Unnamed: 14": -7912165.024003226}
+{}
+{}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": -2589784.3131947345, "Unnamed: 8": 2589784.3131947345, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": -3084007.378280031, "Unnamed: 14": -3084007.378280031}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 786091.9211951041, "Unnamed: 8": 905149.0090359052, "Unnamed: 14": 1691240.9302310094, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 160513183.7582199, "Unnamed: 8": 31167310.61116588, "Unnamed: 14": 191680494.36938578}
+{}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 168779611.36141592, "Unnamed: 8": 32209159.823060483, "Unnamed: 14": 200988771.1844764}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 158523329.8931232, "Unnamed: 8": 31691552.440419823, "Unnamed: 14": 190214882.33354303}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 159313128.54386547, "Unnamed: 8": 30402617.814974993, "Unnamed: 14": 189715746.35884047}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.6637574410301242, "Unnamed: 8": 0.12888370800280857, "Unnamed: 14": 0.7926411490329328}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.6653828989849, "Unnamed: 8": 0.12697875036009998, "Unnamed: 14": 0.792361649345}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 159313128.54386547, "Unnamed: 8": 30402617.814974993, "Unnamed: 14": 189715746.35884047}
+{"Unnamed: 0": "Yield", "Unnamed: 5": 208.8182351398453, "Unnamed: 8": -209.1791127227153, "Unnamed: 14": -0.36087758287}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "7540043 -  ABSOLUTE FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 738738792.7956297, "Unnamed: 8": 128543694.38751924, "Unnamed: 14": 867282487.183149, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 384950.28639329976, "Unnamed: 8": 151069.03260835627, "Unnamed: 14": 536019.319001656, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 0, "Unnamed: 8": 8503323.409433788, "Unnamed: 14": 8503323.409433788, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 739123743.0820229, "Unnamed: 8": 137198086.82956147, "Unnamed: 14": 876321829.9115844}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -66131.91223389708, "Unnamed: 8": -20288.446717081984, "Unnamed: 14": -86420.35895097906, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -351.0652406337261, "Unnamed: 8": -71.53809923673384, "Unnamed: 14": -422.60333987045993}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -3408886.3938685404, "Unnamed: 8": 3408886.3938685404, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -3475369.3713430716, "Unnamed: 8": 3388526.409052222, "Unnamed: 14": -86842.96229084952}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 735648373.7106799, "Unnamed: 8": 140586613.2386136, "Unnamed: 14": 876234986.9492935}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 831577869.1398847, "Unnamed: 8": 161731385.61300385, "Unnamed: 14": 993309254.7528886, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 1742140.3234353457, "Unnamed: 8": 332462.40857593925, "Unnamed: 14": 2074602.732011285, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -209850393.4967449, "Unnamed: 8": -47892092.36514452, "Unnamed: 14": -257742485.86188942, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -196.66346832175478, "Unnamed: 8": -96.98889699144021, "Unnamed: 14": -293.652365313195}
+{}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -3892.404315718231, "Unnamed: 8": -742.8093458070339, "Unnamed: 14": -4635.213661525265}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -1742908.6166933903, "Unnamed: 8": 1742908.6166933903, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Distributed Adjustment", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 6345492.963221351, "Unnamed: 14": 6345492.963221351}
+{}
+{}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 7394562.951239161, "Unnamed: 8": -7394562.951239161, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 10120679.306754917, "Unnamed: 14": 10120679.306754917}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 106531192.47734308, "Unnamed: 8": 15601179.444990635, "Unnamed: 14": 122132371.92233372, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 735648373.7106799, "Unnamed: 8": 140586613.2386136, "Unnamed: 14": 876234986.9492935}
+{}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 623469615.9665751, "Unnamed: 8": 114171755.65643525, "Unnamed: 14": 737641371.6230104}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 632592550.60468, "Unnamed: 8": 113093583.97513688, "Unnamed: 14": 745686134.5798168}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 566166150.9410955, "Unnamed: 8": 104347956.80995762, "Unnamed: 14": 670514107.7510531}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.8560056656003971, "Unnamed: 8": 0.16920883928992736, "Unnamed: 14": 1.0252145048903245}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.8564334343369999, "Unnamed: 8": 0.17128316035800006, "Unnamed: 14": 1.027716594695}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 566166150.9410955, "Unnamed: 8": 104347956.80995762, "Unnamed: 14": 670514107.7510531}
+{"Unnamed: 0": "Yield", "Unnamed: 5": -0.026351797979599998, "Unnamed: 8": -0.005028861400400004, "Unnamed: 14": -0.03138065938}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "8645467 -  REAL FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 147603325.51783162, "Unnamed: 8": -7926886.687755287, "Unnamed: 14": 139676438.83007634, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 323639.2379612857, "Unnamed: 8": 1793080.3556623599, "Unnamed: 14": 2116719.5936236456, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 1367008.5917982045, "Unnamed: 8": -1367008.5917982045, "Unnamed: 14": 0, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 149293973.34759113, "Unnamed: 8": -7500814.923891127, "Unnamed: 14": 141793158.4237}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -23193.14630272474, "Unnamed: 8": -1857.3515509877434, "Unnamed: 14": -25050.497853712484, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -63.073028464172594, "Unnamed: 8": -88.5896983193674, "Unnamed: 14": -151.66272678354}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -1310964.0555996052, "Unnamed: 8": 1310964.0555996052, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -1334220.274930794, "Unnamed: 8": 1309018.114350298, "Unnamed: 14": -25202.160580496027}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 147959753.07266033, "Unnamed: 8": -6191796.809540838, "Unnamed: 14": 141767956.2631195}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 294517422.37492275, "Unnamed: 8": 57073144.5395813, "Unnamed: 14": 351590566.91450405, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": -1285790.4069799762, "Unnamed: 8": -554145.6281479958, "Unnamed: 14": -1839936.035127972, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -163298374.23616323, "Unnamed: 8": -66199599.9546248, "Unnamed: 14": -229497974.19078803, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -25.0276201311251, "Unnamed: 8": -128.40026874253988, "Unnamed: 14": -153.42788887366498}
+{}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -2310.2291891240575, "Unnamed: 8": -440.8739928963173, "Unnamed: 14": -2751.103182020375}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": 2652659.274957343, "Unnamed: 8": -2652659.274957343, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 3128600.2915949463, "Unnamed: 14": 3128600.2915949463}
+{}
+{}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 3985643.6176231466, "Unnamed: 8": -3985643.6176231466, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 7998571.497012429, "Unnamed: 14": 7998571.497012429}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 11390527.705109533, "Unnamed: 8": -999495.3881145865, "Unnamed: 14": 10391032.316994946, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 147959753.07266033, "Unnamed: 8": -6191796.809540838, "Unnamed: 14": 141767956.2631195}
+{}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 129933257.73177955, "Unnamed: 8": -9680601.043191478, "Unnamed: 14": 120252656.68858807}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 136536437.05068338, "Unnamed: 8": -5134310.943978339, "Unnamed: 14": 131402126.10670504}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 125331171.78096716, "Unnamed: 8": -4883143.665119976, "Unnamed: 14": 120448028.11584719}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.7777405818468538, "Unnamed: 8": 0.1456394077405304, "Unnamed: 14": 0.9233799895873842}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.7773780403981999, "Unnamed: 8": 0.14835141131180007, "Unnamed: 14": 0.92572945171}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 125331171.78096716, "Unnamed: 8": -4883143.665119976, "Unnamed: 14": 120448028.11584719}
+{"Unnamed: 0": "Yield", "Unnamed: 5": 222.1258931195433, "Unnamed: 8": -222.1729641086133, "Unnamed: 14": -0.04707098907}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "7548755 - EQTY FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 499644626.583516, "Unnamed: 8": 102853554.65519404, "Unnamed: 14": 602498181.23871, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 8556957.02576662, "Unnamed: 8": 6271063.109336622, "Unnamed: 14": 14828020.135103242, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 633294.5385754239, "Unnamed: 8": -317563.69843257195, "Unnamed: 14": 315730.8401428519, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 343223.1234296335, "Unnamed: 8": 339351.6808156432, "Unnamed: 14": 682574.8042452767, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 0, "Unnamed: 8": 2136889.128027063, "Unnamed: 14": 2136889.128027063, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 1234098.1205597888, "Unnamed: 8": 249256.73622554727, "Unnamed: 14": 1483354.856785336, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 1053285.9768092583, "Unnamed: 8": 256088.94999664742, "Unnamed: 14": 1309374.9268059058, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 511465485.36865675, "Unnamed: 8": 111788640.56116295, "Unnamed: 14": 623254125.9298197}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -1302413.1870250027, "Unnamed: 8": -332006.9009441135, "Unnamed: 14": -1634420.0879691162, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -1779.1943441886528, "Unnamed: 8": -1462.2787116332925, "Unnamed: 14": -3241.4730558219453}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 0, "Unnamed: 8": -2141132.295265789, "Unnamed: 14": -2141132.295265789, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -2381524.4924179255, "Unnamed: 8": 2381524.4924179255, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": 0, "Unnamed: 8": -2310212.802122044, "Unnamed: 14": -2310212.802122044, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -3685716.873787117, "Unnamed: 8": -2403289.784625654, "Unnamed: 14": -6089006.658412771}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 507779768.49486965, "Unnamed: 8": 109385350.77653724, "Unnamed: 14": 617165119.2714069}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 654236450.038901, "Unnamed: 8": 127685341.51521325, "Unnamed: 14": 781921791.5541142, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": -197662.20146518163, "Unnamed: 8": -35052.40658524455, "Unnamed: 14": -232714.60805042618, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -331767498.48269796, "Unnamed: 8": -63313052.426953614, "Unnamed: 14": -395080550.9096516, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 129563.6347842185, "Unnamed: 8": 24725.355073163373, "Unnamed: 14": 154288.98985738188}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -6279.1788900235315, "Unnamed: 8": -2886.8685147642736, "Unnamed: 14": -9166.047404787805}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -80286.14148753822, "Unnamed: 8": -15321.454658474991, "Unnamed: 14": -95607.59614601321}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": 244424.04671953738, "Unnamed: 8": -244424.04671953738, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Distributed Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 1889838.2265130598, "Unnamed: 14": 1889838.2265130598}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 28001092.05796114, "Unnamed: 8": -28001092.05796114, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 38080066.44009746, "Unnamed: 14": 38080066.44009746}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 168266839.67618597, "Unnamed: 8": 29786623.16533497, "Unnamed: 14": 198053462.84152094, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -11046874.95514154, "Unnamed: 8": 3530585.335698233, "Unnamed: 14": -7516289.619443308}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 507779768.49486965, "Unnamed: 8": 109385350.77653724, "Unnamed: 14": 617165119.2714069}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 322400852.9895221, "Unnamed: 8": 64361962.036747515, "Unnamed: 14": 386762815.0262696}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 339934743.9330967, "Unnamed: 8": 79337994.59919566, "Unnamed: 14": 419272738.53229237}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 331642458.384379, "Unnamed: 8": 65077588.24661249, "Unnamed: 14": 396720046.6309915}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 1.0086849196976844, "Unnamed: 8": 0.21176313367959465, "Unnamed: 14": 1.220448053377279}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 1.0079562727197, "Unnamed: 8": 0.2158894431003, "Unnamed: 14": 1.22384571582}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 331642458.384379, "Unnamed: 8": 65077588.24661249, "Unnamed: 14": 396720046.6309915}
+{"Unnamed: 0": "Yield", "Unnamed: 5": 2.0620281919037, "Unnamed: 8": -2.1640153348887, "Unnamed: 14": -0.101987142985}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "7648733 -  FRGN FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 104958.26927596903, "Unnamed: 8": 18765.57393221547, "Unnamed: 14": 123723.8432081845, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 466.1501303601342, "Unnamed: 8": 100.05895199805082, "Unnamed: 14": 566.209082358185, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 56970.58449524875, "Unnamed: 8": 11407.017170803141, "Unnamed: 14": 68377.6016660519, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 177.59794248351417, "Unnamed: 8": 33.892011407995824, "Unnamed: 14": 211.48995389151, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 162572.60184406143, "Unnamed: 8": 30306.54206642465, "Unnamed: 14": 192879.14391048608}
+{}
+{}
+{"Unnamed: 0": "Liabilities", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -6203.839099599855, "Unnamed: 8": -1183.9134091124206, "Unnamed: 14": -7387.752508712276, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -160239.28847990723, "Unnamed: 8": -24616.252311179298, "Unnamed: 14": -184855.54079108653}
+{}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -166443.1275795071, "Unnamed: 8": -25800.165720291727, "Unnamed: 14": -192243.29329979882}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": -3870.525735445668, "Unnamed: 8": 4506.376346132918, "Unnamed: 14": 635.85061068725}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 347317849.2675092, "Unnamed: 8": 66280613.080118775, "Unnamed: 14": 413598462.347628, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": -1514080.1503456852, "Unnamed: 8": -288940.4066879852, "Unnamed: 14": -1803020.5570336704, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -318419292.24701047, "Unnamed: 8": -60765739.36864948, "Unnamed: 14": -379185031.61565995, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 76522.45252905136, "Unnamed: 8": 14603.208786178206, "Unnamed: 14": 91125.66131522956}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -75.76141919135, "Unnamed: 8": -1789.4186775425546, "Unnamed: 14": -1865.1800967339047}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -2007950.4155593587, "Unnamed: 8": -383188.43923062296, "Unnamed: 14": -2391138.8547899816}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": 1493279.3651984376, "Unnamed: 8": -1493279.3651984376, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized FX Income Currencies", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 1785512.486958754, "Unnamed: 14": 1785512.486958754}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": -26950893.65544166, "Unnamed: 8": 26950893.65544166, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": -32094083.843642745, "Unnamed: 14": -32094083.843642745}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": 770.6188042164325, "Unnamed: 8": -95.2128723806926, "Unnamed: 14": 675.4059318357399}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": -3870.525735445668, "Unnamed: 8": 4506.376346132918, "Unnamed: 14": 635.85061068725}
+{}
+{"Unnamed: 0": "Additional Fund Information", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 27460999.32268211, "Unnamed: 8": 5240536.513567448, "Unnamed: 14": 32701535.836249556}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 104958.26927596903, "Unnamed: 8": 18765.57393221547, "Unnamed: 14": 123723.8432081845}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "3450034 -  FOCUS FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 606873861.9302794, "Unnamed: 8": 143061200.49082208, "Unnamed: 14": 749935062.4211015, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 15271932.622240292, "Unnamed: 8": -14696955.7914965, "Unnamed: 14": 574976.8307437921, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 138383.22581871788, "Unnamed: 8": 3887199.087686453, "Unnamed: 14": 4025582.313505171, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 600637.3482547601, "Unnamed: 8": 12934.029834449408, "Unnamed: 14": 613571.3780892096, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 492367.8240398159, "Unnamed: 8": 496835.44430140697, "Unnamed: 14": 989203.2683412229, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Securities Sold", "Unnamed: 5": 683328.585404149, "Unnamed: 8": 2951869.891861613, "Unnamed: 14": 3635198.477265762, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 408828.38180500927, "Unnamed: 8": 87871.50446471624, "Unnamed: 14": 496699.8862697255, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 408828.38180500927, "Unnamed: 8": 87871.50446471624, "Unnamed: 14": 496699.8862697255, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 624878168.2996471, "Unnamed: 8": 135888826.16193902, "Unnamed: 14": 760766994.4615861}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -1170181.142825572, "Unnamed: 8": -266612.96656611795, "Unnamed: 14": -1436794.10939169, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -748.9971539741708, "Unnamed: 8": -1072.7364198481241, "Unnamed: 14": -1821.733573822295}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": -491782.1487417699, "Unnamed: 8": -496695.5124577742, "Unnamed: 14": -988477.6611995441, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -1575948.8357626954, "Unnamed: 8": 1575948.8357626954, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": -2444713.4753811583, "Unnamed: 8": 687486.3929289633, "Unnamed: 14": -1757227.082452195, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -5683374.59986517, "Unnamed: 8": 1499054.0132479188, "Unnamed: 14": -4184320.5866172514}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 619194793.699782, "Unnamed: 8": 137387880.17518687, "Unnamed: 14": 756582673.8749689}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 478631003.9194933, "Unnamed: 8": 93214805.32654881, "Unnamed: 14": 571845809.2460421, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 365068.23691876227, "Unnamed: 8": 71397.54845863697, "Unnamed: 14": 436465.78537739924, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -29981402.500836413, "Unnamed: 8": -5721519.187534425, "Unnamed: 14": -35702921.68837084, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 18226.767872398417, "Unnamed: 8": 3478.316336460721, "Unnamed: 14": 21705.084208859138}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": 5030.979863073313, "Unnamed: 8": -429.4376490627883, "Unnamed: 14": 4601.542214010525}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -22946.8558108579, "Unnamed: 8": -4379.077189992917, "Unnamed: 14": -27325.93300085082}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -174962.2422375441, "Unnamed: 8": 174962.2422375441, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 983311.7299814193, "Unnamed: 14": 983311.7299814193}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 36869166.73784308, "Unnamed: 8": -36869166.73784308, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 59397688.81497019, "Unnamed: 14": 59397688.81497019}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 153389299.76929462, "Unnamed: 8": 19287813.06446883, "Unnamed: 14": 172677112.83376345, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -19903691.112618525, "Unnamed: 8": 6849917.572401669, "Unnamed: 14": -13053773.540216856}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 619194793.699782, "Unnamed: 8": 137387880.17518687, "Unnamed: 14": 756582673.8749689}
+{}
+{"Unnamed: 0": "Additional Fund Information", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 449032896.42344815, "Unnamed: 8": 87568162.00380939, "Unnamed: 14": 536601058.42725754}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 468756494.78322506, "Unnamed: 8": 109076431.63485682, "Unnamed: 14": 577832926.4180819}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 438128672.9655986, "Unnamed: 8": 84878589.72271603, "Unnamed: 14": 523007262.6883146}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.9310561659858535, "Unnamed: 8": 0.20382592965338586, "Unnamed: 14": 1.1348820956392394}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.9289008787808999, "Unnamed: 8": 0.2086480237441002, "Unnamed: 14": 1.137548902525}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 438128672.9655986, "Unnamed: 8": 84878589.72271603, "Unnamed: 14": 523007262.6883146}
+{"Unnamed: 0": "Yield", "Unnamed: 5": 7.3455636868135, "Unnamed: 8": 6.352094132556501, "Unnamed: 14": 13.69765781937}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "5651086 -  SUSTAINABLE FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 625690567.6226301, "Unnamed: 8": 343386501.3033781, "Unnamed: 14": 969077068.9260082, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 19435297.673460234, "Unnamed: 8": 23793366.210714336, "Unnamed: 14": 43228663.88417457, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 3304.6867533287073, "Unnamed: 8": -3303.6276560746323, "Unnamed: 14": 1.059097254075, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 134913.26717641065, "Unnamed: 8": 272284.10669418605, "Unnamed: 14": 407197.3738705967, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 715194.8067446065, "Unnamed: 8": 32695407.95125069, "Unnamed: 14": 33410602.757995296, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 914103.8632950414, "Unnamed: 8": 180858.69941777864, "Unnamed: 14": 1094962.56271282, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "        Unrealized Gain on Forward Contracts", "Unnamed: 5": 0, "Unnamed: 8": 1172.28729245866, "Unnamed: 14": 1172.28729245866, "Unnamed: 16": "See Unrealized G/L on Currency Contracts"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 914103.8632950414, "Unnamed: 8": 180858.69941777864, "Unnamed: 14": 1094962.56271282, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 647807485.7833549, "Unnamed: 8": 400507145.63050926, "Unnamed: 14": 1048314631.4138641}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -1548716.6044487483, "Unnamed: 8": -482572.9253823026, "Unnamed: 14": -2031289.529831051, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -1492.7371242514114, "Unnamed: 8": -1024.3683259371487, "Unnamed: 14": -2517.10545018856}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": -712445.1020326272, "Unnamed: 8": -32823952.222586524, "Unnamed: 14": -33536397.32461915, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -1639260.3216467854, "Unnamed: 8": 1639260.3216467854, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": -1409295.0716739877, "Unnamed: 8": -33782281.235481516, "Unnamed: 14": -35191576.307155505, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -5311209.8369264, "Unnamed: 8": -65450570.4301295, "Unnamed: 14": -70761780.2670559}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 642496275.9464284, "Unnamed: 8": 335056575.20037985, "Unnamed: 14": 977552851.1468083}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 488640133.7125733, "Unnamed: 8": 291115263.1348287, "Unnamed: 14": 779755396.847402, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 368237.85094359703, "Unnamed: 8": 96456.48503072967, "Unnamed: 14": 464694.3359743267, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -0.65879494949, "Unnamed: 8": -0.12572153501000005, "Unnamed: 14": -0.7845164845, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 195262.909786836, "Unnamed: 8": 194014.64053195465, "Unnamed: 14": 389277.55031879066}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -1818.1225377540172, "Unnamed: 8": -1467.7541510906276, "Unnamed: 14": -3285.876688844645}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -16090.447374040728, "Unnamed: 8": -3070.6303143763416, "Unnamed: 14": -19161.07768841707}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -372179.8229913149, "Unnamed: 8": 372179.8229913149, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 64213.3175598423, "Unnamed: 14": 64213.3175598423}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 6380092.151721682, "Unnamed: 8": -6380092.151721682, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 17333710.470338922, "Unnamed: 14": 17333710.470338922}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 160851633.21391782, "Unnamed: 8": 22586951.1517075, "Unnamed: 14": 183438584.36562532, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -13548528.624806926, "Unnamed: 8": 9678505.809915455, "Unnamed: 14": -3870022.814891471}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 642496742.1624383, "Unnamed: 8": 335056664.1709956, "Unnamed: 14": 977553406.3334339}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 489203633.8145088, "Unnamed: 8": 291405734.1346698, "Unnamed: 14": 780609367.9491786}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 484274232.08217263, "Unnamed: 8": 344592916.3623849, "Unnamed: 14": 828867148.4445575}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 382201054.20028514, "Unnamed: 8": 188315049.18393153, "Unnamed: 14": 570516103.3842167}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 1.1074624142852352, "Unnamed: 8": 0.23677014895997472, "Unnamed: 14": 1.34423256324521}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 1.1067755151432, "Unnamed: 8": 0.23474767335180013, "Unnamed: 14": 1.341523188495}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 382201054.20028514, "Unnamed: 8": 188315049.18393153, "Unnamed: 14": 570516103.3842167}
+{"Unnamed: 0": "Yield", "Unnamed: 5": -0.25034208080619996, "Unnamed: 8": -0.09484517237380002, "Unnamed: 14": -0.34518725318}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "6451099 -  INCOME FND"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 378085.10280775535, "Unnamed: 8": 287221.34037444415, "Unnamed: 14": 665306.4431821995, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 37404.52601823413, "Unnamed: 8": 73703.80571896998, "Unnamed: 14": 111108.3317372041, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 419907.65269215836, "Unnamed: 8": 28170.741817931004, "Unnamed: 14": 448078.39451008936, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 191.30746538240106, "Unnamed: 8": 1739.544506268999, "Unnamed: 14": 1930.8519716514, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 835588.5889835302, "Unnamed: 8": 390835.43241761415, "Unnamed: 14": 1226424.0214011443}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -19188.193457835638, "Unnamed: 8": 4898.319834646278, "Unnamed: 14": -14289.87362318936, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -988726.4038933596, "Unnamed: 8": -188048.32285664033, "Unnamed: 14": -1176774.72675}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Other Payables", "Unnamed: 5": -1470.1272815849145, "Unnamed: 8": -319.0488581306306, "Unnamed: 14": -1789.176139715545, "Unnamed: 16": "See Other Payables/Receivables"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -1009384.7246327801, "Unnamed: 8": -183469.05188012472, "Unnamed: 14": -1192853.7765129048}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": -173796.13564924983, "Unnamed: 8": 207366.3805374893, "Unnamed: 14": 33570.2448882395}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 164982532.80391127, "Unnamed: 8": 31484542.02632022, "Unnamed: 14": 196467074.8302315, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": -833505.1104280712, "Unnamed: 8": -159062.45486978698, "Unnamed: 14": -992567.5652978582, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -169883389.47812206, "Unnamed: 8": -32419799.99152285, "Unnamed: 14": -202303189.4696449, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 54468.059648318056, "Unnamed: 8": 10394.445302447988, "Unnamed: 14": 64862.504950766044}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -990878.5684102526, "Unnamed: 8": -186519.2448672318, "Unnamed: 14": -1177397.8132774844}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -27975.602359052442, "Unnamed: 8": -5338.741097108003, "Unnamed: 14": -33314.343456160444}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": 821209.2363197494, "Unnamed: 8": -821209.2363197494, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Currencies", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 993098.9183128101, "Unnamed: 14": 993098.9183128101}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 5707501.390370311, "Unnamed: 8": -5707501.390370311, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 7023851.815104748, "Unnamed: 14": 7023851.815104748}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -3762.4965396282983, "Unnamed: 8": -5090.458181360402, "Unnamed: 14": -8852.9547209887}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": -173799.7656094215, "Unnamed: 8": 207365.68781183142, "Unnamed: 14": 33565.9222024099}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": -5679893.724990549, "Unnamed: 8": -1083925.9747699667, "Unnamed: 14": -6763819.699760515}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 378085.10280775535, "Unnamed: 8": 287221.34037444415, "Unnamed: 14": 665306.4431821995}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 0.014625247878678, "Unnamed: 8": 0.0027910180772220024, "Unnamed: 14": 0.0174162659559}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 581910.3145852209, "Unnamed: 8": 145746.3940787185, "Unnamed: 14": 727656.7086639394}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 10282335.359196164, "Unnamed: 8": -11692092.40240176, "Unnamed: 14": -1409757.043205597}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 0.014625247878678, "Unnamed: 8": 0.0027910180772220024, "Unnamed: 14": 0.0174162659559}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "7762264 - BOND FUND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 327529576.4739169, "Unnamed: 8": 65033675.98664582, "Unnamed: 14": 392563252.4605627, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 9897212.764983824, "Unnamed: 8": -1130547.2474802248, "Unnamed: 14": 8766665.517503599, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 689289.8166756496, "Unnamed: 8": 1037105.0383353647, "Unnamed: 14": 1726394.8550110143, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 2176427.6977164564, "Unnamed: 8": 640441.2736897729, "Unnamed: 14": 2816868.9714062293, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 148546443.0664515, "Unnamed: 8": 50512658.09106389, "Unnamed: 14": 199059101.15751538, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Securities Sold", "Unnamed: 5": 17844014.85162425, "Unnamed: 8": -16137829.596273517, "Unnamed: 14": 1706185.2553507336, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 0": "        Unrealized Gain on Forward Contracts", "Unnamed: 5": 3561829.488755149, "Unnamed: 8": -646318.9684475642, "Unnamed: 14": 2915510.5203075847, "Unnamed: 16": "See Unrealized G/L on Currency Contracts"}
+{"Unnamed: 0": "        Other Receivables", "Unnamed: 5": 16201.803484353022, "Unnamed: 8": 4234.835246542287, "Unnamed: 14": 20436.63873089531, "Unnamed: 16": "See Other Payables/Receivables"}
+{"Unnamed: 0": "    Futures App/Dep (Holdings)", "Unnamed: 5": 55635.23348443049, "Unnamed: 8": -277747.5405760705, "Unnamed: 14": -222112.30709164, "Unnamed: 16": "See Futures Appreciation/Depreciation"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Futures App/Dep (Transactions)", "Unnamed: 5": -55635.23348443049, "Unnamed: 8": 277747.5405760705, "Unnamed: 14": 222112.30709164}
+{}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 510260995.9636081, "Unnamed: 8": 99313419.4127801, "Unnamed: 14": 609574415.3763882}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -138565.41556199937, "Unnamed: 8": -70051.89785371153, "Unnamed: 14": -208617.3134157109, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -18798.496481363814, "Unnamed: 8": -15577.588049424397, "Unnamed: 14": -34376.08453078821}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": -148322829.54186854, "Unnamed: 8": -50731846.66024834, "Unnamed: 14": -199054676.20211688, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -2139017.3018352226, "Unnamed: 8": 2139017.3018352226, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": -25527115.82006067, "Unnamed: 8": 13591784.377530796, "Unnamed: 14": -11935331.442529874, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 0": "        Unrealized Loss on Forward Contracts", "Unnamed: 5": -10167733.063122053, "Unnamed: 8": 1814457.1081012078, "Unnamed: 14": -8353275.955020845, "Unnamed: 16": "See Unrealized G/L on Currency Contracts"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Capital Expense Payable", "Unnamed: 5": 33104.426448024016, "Unnamed: 8": 6317.503362606447, "Unnamed: 14": 39421.92981063046}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Other Payables", "Unnamed: 5": -33104.426448024016, "Unnamed: 8": -6317.503362606447, "Unnamed: 14": -39421.92981063046, "Unnamed: 16": "See Other Payables/Receivables"}
+{"Unnamed: 0": "    Short Securities", "Unnamed: 5": 133687.26295130874, "Unnamed: 8": -1319831.9172500884, "Unnamed: 14": -1186144.6542987798, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -186180372.37597853, "Unnamed: 8": -34592049.27593434, "Unnamed: 14": -220772421.65191287}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 324080623.58762956, "Unnamed: 8": 64721370.13684571, "Unnamed: 14": 388801993.72447526}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 309072470.29572964, "Unnamed: 8": 60958512.60837275, "Unnamed: 14": 370030982.9041024, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 887912.4818856423, "Unnamed: 8": 177077.98156927316, "Unnamed: 14": 1064990.4634549154, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -0.65879494949, "Unnamed: 8": -0.12572153501000005, "Unnamed: 14": -0.7845164845, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 137415.85131488676, "Unnamed: 8": 26223.837592239695, "Unnamed: 14": 163639.68890712646}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": 46440.63001288341, "Unnamed: 8": 27904.81208625452, "Unnamed: 14": 74345.44209913793}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -57717.62502822293, "Unnamed: 8": -11014.578088822964, "Unnamed: 14": -68732.2031170459}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -861475.8508803964, "Unnamed: 8": 861475.8508803964, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 0": "        Earned Amortization", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Amortization"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized Exchange G/L Amort", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 1394762.7365406454, "Unnamed: 14": 1394762.7365406454}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 19952355.432515968, "Unnamed: 8": -19952355.432515968, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 19268311.254011504, "Unnamed: 14": 19268311.254011504}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 11218618.977462877, "Unnamed: 8": -2386295.196402788, "Unnamed: 14": 8832323.781060088, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -16315395.946588805, "Unnamed: 8": 4356766.388521811, "Unnamed: 14": -11958629.558066994}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 324080623.58762956, "Unnamed: 8": 64721370.13684571, "Unnamed: 14": 388801993.72447526}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 310097797.9701353, "Unnamed: 8": 61161814.30181271, "Unnamed: 14": 371259612.271948}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 326777759.7566143, "Unnamed: 8": 63834581.08511752, "Unnamed: 14": 390612340.84173185}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 296714843.1600322, "Unnamed: 8": 58419334.41960657, "Unnamed: 14": 355134177.5796388}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.7195551004093516, "Unnamed: 8": 0.13933597097718564, "Unnamed: 14": 0.8588910713865372}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.7180864949441, "Unnamed: 8": 0.13703647316090006, "Unnamed: 14": 0.8551229681050001}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 296714843.1600322, "Unnamed: 8": 58419334.41960657, "Unnamed: 14": 355134177.5796388}
+{"Unnamed: 0": "Yield", "Unnamed: 5": 5.5404655252109, "Unnamed: 8": -3.0143224451208996, "Unnamed: 14": 2.52614308009}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "6462376 -  GREEN FUND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 764065459.3031359, "Unnamed: 8": 156412325.86958277, "Unnamed: 14": 920477785.1727186, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 356312.75322079775, "Unnamed: 8": 25265.38757064822, "Unnamed: 14": 381578.14079144597, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 764421772.0563568, "Unnamed: 8": 156437591.25715315, "Unnamed: 14": 920859363.31351}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -51639.15460751102, "Unnamed: 8": -18867.397287693377, "Unnamed: 14": -70506.5518952044, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -189.00168305918606, "Unnamed: 8": -42.26593140656894, "Unnamed: 14": -231.267614465755}
+{}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -51828.15629057021, "Unnamed: 8": -18909.663219099944, "Unnamed: 14": -70737.81950967015}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 764369943.9000661, "Unnamed: 8": 156418681.5939343, "Unnamed: 14": 920788625.4940004}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 715238638.5795591, "Unnamed: 8": 136493000.7588799, "Unnamed: 14": 851731639.338439, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 664.8229232778334, "Unnamed: 8": 126.87188705534152, "Unnamed: 14": 791.6948103331749, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -13011902.97582422, "Unnamed: 8": -2483134.421094466, "Unnamed: 14": -15495037.396918686, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -379.31436806785723, "Unnamed: 8": -86.42953328525772, "Unnamed: 14": -465.74390135311495}
+{}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": 23123.215218836376, "Unnamed: 8": 4412.7328449150955, "Unnamed: 14": 27535.94806375147}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": 25999930.122491356, "Unnamed: 8": -25999930.122491356, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 30909905.87018346, "Unnamed: 14": 30909905.87018346}
+{}
+{}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 558788.3477531351, "Unnamed: 8": -558788.3477531351, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 665425.062074656, "Unnamed: 14": 665425.062074656}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 35561081.102312684, "Unnamed: 8": 17387749.61893645, "Unnamed: 14": 52948830.72124913, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 764369943.9000661, "Unnamed: 8": 156418681.5939343, "Unnamed: 14": 920788625.4940004}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Additional Fund Information", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 702227400.4266583, "Unnamed: 8": 134009993.20967245, "Unnamed: 14": 836237393.6363307}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 728860690.954044, "Unnamed: 8": 139049841.63821697, "Unnamed: 14": 867910532.592261}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 706498547.823228, "Unnamed: 8": 134825080.2217487, "Unnamed: 14": 841323628.0449767}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.7127588004237259, "Unnamed: 8": 0.14585710965103782, "Unnamed: 14": 0.8586159100747637}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.7114985454492, "Unnamed: 8": 0.1436244226558001, "Unnamed: 14": 0.8551229681050001}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 706498547.823228, "Unnamed: 8": 134825080.2217487, "Unnamed: 14": 841323628.0449767}
+{"Unnamed: 0": "Yield", "Unnamed: 5": -0.013175898989799999, "Unnamed: 8": -0.002514430700200002, "Unnamed: 14": -0.01569032969}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "5447143 -  CORE FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 350545108.5092193, "Unnamed: 8": 74981208.06216997, "Unnamed: 14": 425526316.57138926, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 7814726.934458217, "Unnamed: 8": -112577.02042663004, "Unnamed: 14": 7702149.914031587, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 371761.86371150997, "Unnamed: 8": -216970.76761371837, "Unnamed: 14": 154791.0960977916, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 177984.12808290523, "Unnamed: 8": 189689.78385363703, "Unnamed: 14": 367673.91193654225, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 429817.819473993, "Unnamed: 8": -293404.0063352842, "Unnamed: 14": 136413.81313870876, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Securities Sold", "Unnamed: 5": 122944.72851464197, "Unnamed: 8": -122944.72851464197, "Unnamed: 14": 0, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 113044.83893401937, "Unnamed: 8": 21304.723050013636, "Unnamed: 14": 134349.561984033, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 113044.83893401937, "Unnamed: 8": 21304.723050013636, "Unnamed: 14": 134349.561984033, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 359688433.6613286, "Unnamed: 8": 74467610.76923329, "Unnamed: 14": 434156044.4305619}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -565553.3879184076, "Unnamed: 8": -143415.13192468323, "Unnamed: 14": -708968.5198430908, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -1743.935638491948, "Unnamed: 8": -1748.386563248872, "Unnamed: 14": -3492.32220174082}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": -429979.54704614327, "Unnamed: 8": 293421.5633130779, "Unnamed: 14": -136557.98373306534, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -1475427.8864569657, "Unnamed: 8": 1475427.8864569657, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": -542094.7274871899, "Unnamed: 8": 187851.30628122122, "Unnamed: 14": -354243.4212059687, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -3014799.4845471983, "Unnamed: 8": 1811537.2375633325, "Unnamed: 14": -1203262.2469838657}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 356673634.1767814, "Unnamed: 8": 76279148.00679666, "Unnamed: 14": 432952782.1835781}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 429677776.1310172, "Unnamed: 8": 83163208.09488875, "Unnamed: 14": 512840984.22590595, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 75891.84741545001, "Unnamed: 8": 15433.292906293354, "Unnamed: 14": 91325.14032174337, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -114188702.27268475, "Unnamed: 8": -21791270.472907156, "Unnamed: 14": -135979972.7455919, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -3829.8978509106196, "Unnamed: 8": -2621.879420804085, "Unnamed: 14": -6451.7772717147045}
+{}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -17.5502974544136, "Unnamed: 8": -3.3492216926664007, "Unnamed: 14": -20.89951914708}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -79389.07358071668, "Unnamed: 8": 79389.07358071668, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 608193.6509557643, "Unnamed: 14": 608193.6509557643}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 2685752.436011731, "Unnamed: 8": -2685752.436011731, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 5316351.184499948, "Unnamed: 14": 5316351.184499948}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 52154976.03243685, "Unnamed: 8": 8134659.895323515, "Unnamed: 14": 60289635.92776036, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -13648823.475685991, "Unnamed: 8": 3441560.9522030763, "Unnamed: 14": -10207262.523482915}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 356673634.1767814, "Unnamed: 8": 76279148.00679666, "Unnamed: 14": 432952782.1835781}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 315564965.7057479, "Unnamed: 8": 61387370.914887905, "Unnamed: 14": 376952336.6206358}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 306204859.4112407, "Unnamed: 8": 66733971.14641976, "Unnamed: 14": 372938830.55766046}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 324984115.47436285, "Unnamed: 8": 63045247.995894134, "Unnamed: 14": 388029363.470257}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.7230346906338203, "Unnamed: 8": 0.15230781695531925, "Unnamed: 14": 0.8753425075891396}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.724674444439, "Unnamed: 8": 0.15398401820100016, "Unnamed: 14": 0.8786584626400001}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 324984115.47436285, "Unnamed: 8": 63045247.995894134, "Unnamed: 14": 388029363.470257}
+{"Unnamed: 0": "Yield", "Unnamed: 5": -0.052703595959199996, "Unnamed: 8": -0.3317094814458, "Unnamed: 14": -0.38441307740499997}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "4378144 -  EM FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 329336874.6746654, "Unnamed: 8": 116277035.56954277, "Unnamed: 14": 445613910.24420816, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 13084.497778507755, "Unnamed: 8": -9153.45042314, "Unnamed: 14": 3931.047355367755, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 8514114.325314984, "Unnamed: 8": 1310603.6350547243, "Unnamed: 14": 9824717.960369708, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 528815.7995552392, "Unnamed: 8": 124739.74777354742, "Unnamed: 14": 653555.5473287866, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Accrued Gross Withholding", "Unnamed: 5": -4186.793426847332, "Unnamed: 8": 399.97942715490217, "Unnamed: 14": -3786.8139996924297, "Unnamed: 16": "See Accrued Net Withholding"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Capital Assets", "Unnamed: 5": 0, "Unnamed: 8": 73702.69558855193, "Unnamed: 14": 73702.69558855193}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Capital Shares Sold", "Unnamed: 5": 0, "Unnamed: 8": 66950803.48913778, "Unnamed: 14": 66950803.48913778, "Unnamed: 16": "See Capital Shares Payable/Receivable"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 0, "Unnamed: 8": 67072179.39218534, "Unnamed: 14": 67072179.39218534, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 9702.079809088724, "Unnamed: 8": 1832.0933654810924, "Unnamed: 14": 11534.173174569816, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "        Other Receivables", "Unnamed: 5": 0, "Unnamed: 8": 51653.24002365667, "Unnamed: 14": 51653.24002365667, "Unnamed: 16": "See Other Payables/Receivables"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 12300.25509473587, "Unnamed: 8": 1512.3657702727596, "Unnamed: 14": 13812.62086500863, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 338410704.83879113, "Unnamed: 8": 251855308.75744617, "Unnamed: 14": 590266013.5962373}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -568691.6894192931, "Unnamed: 8": -102014.91806780838, "Unnamed: 14": -670706.6074871015, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -451658.67055979854, "Unnamed: 8": -86338.63416389766, "Unnamed: 14": -537997.3047236962}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 0, "Unnamed: 8": -67076159.42475, "Unnamed: 14": -67076159.42475, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -1054893.6275365492, "Unnamed: 8": 1054893.6275365492, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": 0, "Unnamed: 8": -65410157.21356767, "Unnamed: 14": -65410157.21356767, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -2075243.987515641, "Unnamed: 8": -131619776.56301282, "Unnamed: 14": -133695020.55052847}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 336335460.85127544, "Unnamed: 8": 120235532.19443339, "Unnamed: 14": 456570993.04570884}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 322167492.63318914, "Unnamed: 8": 129688731.91546386, "Unnamed: 14": 451856224.548653, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 372241.8287719609, "Unnamed: 8": 122690.2358967571, "Unnamed: 14": 494932.064668718, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -58258357.23599558, "Unnamed: 8": -11117769.048685588, "Unnamed: 14": -69376126.28468117, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 961796.1575963093, "Unnamed: 8": 257247.65049953887, "Unnamed: 14": 1219043.8080958482}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": 14952.194636210896, "Unnamed: 8": -6057.323199455361, "Unnamed: 14": 8894.871436755535}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -605789.4146295497, "Unnamed: 8": -115606.19151527423, "Unnamed: 14": -721395.606144824}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -375536.6072492493, "Unnamed: 8": 375536.6072492493, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Distributed Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": -149909.54426013332, "Unnamed: 14": -149909.54426013332}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": -14543968.0043007, "Unnamed: 8": 14543968.0043007, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": -19365569.951395962, "Unnamed: 14": -19365569.951395962}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 103084649.19946297, "Unnamed: 8": 5440804.998499334, "Unnamed: 14": 108525454.1979623, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -16482019.8936181, "Unnamed: 8": 561464.8428374976, "Unnamed: 14": -15920555.050780602}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 336335460.8578634, "Unnamed: 8": 120235532.19569057, "Unnamed: 14": 456570993.053554}
+{}
+{"Unnamed: 0": "Additional Fund Information"}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 265243173.38356182, "Unnamed: 8": 118950900.75317463, "Unnamed: 14": 384194074.13673645}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 226265309.97298095, "Unnamed: 8": 110827077.12062028, "Unnamed: 14": 337092387.0936012}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 291407079.2357325, "Unnamed: 8": 116286824.09277284, "Unnamed: 14": 407693903.32850534}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 0.76036623534755, "Unnamed: 8": 0.11820336511025065, "Unnamed: 14": 0.8785696004578006}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 0.7576141919134999, "Unnamed: 8": 0.12104427072650026, "Unnamed: 14": 0.8786584626400001}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 291407079.2357325, "Unnamed: 8": 56729084.77534759, "Unnamed: 14": 348136164.0110801}
+{"Unnamed: 0": "Yield", "Unnamed: 5": -0.25034208080619996, "Unnamed: 8": -0.07130967783880005, "Unnamed: 14": -0.321651758645}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "3282644 - WEZ FND"}
+{}
+{"Unnamed: 0": "Assets"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Securities", "Unnamed: 5": 289352454.2454857, "Unnamed: 8": 45085679.05769414, "Unnamed: 14": 334438133.30317986, "Unnamed: 16": "See Investment Positions List"}
+{"Unnamed: 0": "    Cash", "Unnamed: 5": 9174482.035751749, "Unnamed: 8": -6661817.286207547, "Unnamed: 14": 2512664.7495442014, "Unnamed: 16": "See Analysis of Cash Flow OR Cash and Foreign Currency"}
+{"Unnamed: 0": "    Foreign Currency", "Unnamed: 5": 1636.8814591998232, "Unnamed: 8": -1636.5833429357133, "Unnamed: 14": 0.29811626411000003, "Unnamed: 16": "See Cash and Foreign Currency"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Receivables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Gross Income", "Unnamed: 5": 71178.61753241473, "Unnamed: 8": 95140.7678663129, "Unnamed: 14": 166319.38539872764, "Unnamed: 16": "See Accrued Gross Income"}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": 330423.9892714468, "Unnamed: 8": -330423.9892714468, "Unnamed: 14": 0, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Securities Sold", "Unnamed: 5": 0, "Unnamed: 8": 26083.376566875493, "Unnamed: 14": 26083.376566875493, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 0": "        Reclaims", "Unnamed: 5": 310364.7371313955, "Unnamed: 8": 61954.54795514635, "Unnamed: 14": 372319.28508654184, "Unnamed: 16": "See Reclaim Receivable"}
+{"Unnamed: 0": "    Prepaid Expenses", "Unnamed: 5": 310364.7371313955, "Unnamed: 8": 61954.54795514635, "Unnamed: 14": 372319.28508654184, "Unnamed: 16": "See Prepaid Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Assets", "Unnamed: 5": 299550905.2437633, "Unnamed: 8": 38336934.43921572, "Unnamed: 14": 337887839.68297905}
+{}
+{}
+{"Unnamed: 0": "Liabilities"}
+{"Unnamed: 0": "    Payables", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Expenses", "Unnamed: 5": -619724.6406781318, "Unnamed: 8": -128890.55725806893, "Unnamed: 14": -748615.1979362008, "Unnamed: 16": "See Accrued Expenses"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Accrued Capital Expenses", "Unnamed: 5": -6073.970851206891, "Unnamed: 8": -2790.218145839849, "Unnamed: 14": -8864.18899704674}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Spot Contracts", "Unnamed: 5": -329153.60861854727, "Unnamed: 8": 329153.60861854727, "Unnamed: 14": 0, "Unnamed: 16": "See Spot Contracts Payable/Receivable"}
+{"Unnamed: 0": "        Income", "Unnamed: 5": -773915.4536713775, "Unnamed: 8": 773915.4536713775, "Unnamed: 14": 0, "Unnamed: 16": "See Income Payable"}
+{"Unnamed: 0": "        Securities Purchased", "Unnamed: 5": -651159.2327435826, "Unnamed: 8": 651159.2327435826, "Unnamed: 14": 0, "Unnamed: 16": "See Securities Purchased Payable/Sold Receivable"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Liabilities", "Unnamed: 5": -2380026.906562846, "Unnamed: 8": 1622547.5196295986, "Unnamed: 14": -757479.3869332476}
+{}
+{"Unnamed: 0": "Total Net Assets", "Unnamed: 5": 297170878.33720046, "Unnamed: 8": 39959481.95884532, "Unnamed: 14": 337130360.2960458}
+{}
+{"Unnamed: 0": "Equity"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Subscriptions", "Unnamed: 5": 183973264.9400377, "Unnamed: 8": 36036726.4532277, "Unnamed: 14": 220009991.3932654, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Net Equalization", "Unnamed: 5": 25921.861807613328, "Unnamed: 8": 2625.280933669568, "Unnamed: 14": 28547.142741282896, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 0": "    Redemptions", "Unnamed: 5": -28378.50817426154, "Unnamed: 8": -28262487.872756477, "Unnamed: 14": -28290866.38093074, "Unnamed: 16": "See Change in Redemptions/Subscriptions"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Capital Assets", "Unnamed: 5": 39978.52352923499, "Unnamed: 8": 24585.04926027717, "Unnamed: 14": 64563.57278951216}
+{}
+{"Unnamed: 0": "    Capital Expenses", "Unnamed: 5": -4090.5105449793687, "Unnamed: 8": -2779.908258359072, "Unnamed: 14": -6870.418803338441}
+{"Unnamed: 0": "    Prior Capital Expenses", "Unnamed: 5": -5091.951335648612, "Unnamed: 8": -971.7256311839428, "Unnamed: 14": -6063.676966832555}
+{"Unnamed: 0": "    Undistributed Income", "Unnamed: 5": -28107.526047687814, "Unnamed: 8": 28107.526047687814, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Distributed Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Earned Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Earned Income"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Expenses Charged", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0, "Unnamed: 16": "See Expense Summary"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Net Witholding Expensed", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{"Unnamed: 0": "        Unrealized FX Income Receivable", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Unrealized Exchange G/L Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Income", "Unnamed: 5": 0, "Unnamed: 8": 166804.55392823697, "Unnamed: 14": 166804.55392823697}
+{"Unnamed: 0": "    Undistributed Gain/Loss", "Unnamed: 5": 13813956.009768883, "Unnamed: 8": -13813956.009768883, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "        Realized Exchange Gain/Loss Capital", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "            Undistributed Gain/Loss", "Unnamed: 5": 0, "Unnamed: 8": 32101702.016488116, "Unnamed: 14": 32101702.016488116}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Market Gain/Loss", "Unnamed: 5": 110690713.5456761, "Unnamed: 8": 11309307.307656527, "Unnamed: 14": 122000020.85333262, "Unnamed: 16": "See Unrealized Market Gain/Loss"}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "    Unrealized Exchange Gain/Loss", "Unnamed: 5": -11307288.047516491, "Unnamed: 8": 2369819.2877179924, "Unnamed: 14": -8937468.759798499}
+{}
+{"Unnamed: 0": "Total Equity", "Unnamed: 5": 297170878.33720046, "Unnamed: 8": 39959481.95884532, "Unnamed: 14": 337130360.2960458}
+{}
+{"Unnamed: 0": "Additional Fund Information", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Capital", "Unnamed: 5": 184010786.8172003, "Unnamed: 8": 7801448.910665154, "Unnamed: 14": 191812235.72786546}
+{"Unnamed: 0": "Total Amortized Cost", "Unnamed: 5": 187836222.73556137, "Unnamed: 8": 27114554.463830084, "Unnamed: 14": 214950777.19939145}
+{"Unnamed: 0": "Total Period Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Total Period Net Income", "Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 0": "Shares Outstanding", "Unnamed: 5": 173874511.56866568, "Unnamed: 8": 17526644.770254076, "Unnamed: 14": 191401156.33891976}
+{"Unnamed: 0": "Net Asset Value", "Unnamed: 5": 1.1259538398526923, "Unnamed: 8": 0.25587859013240233, "Unnamed: 14": 1.3818324299850946}
+{"Unnamed: 0": "Public Offering Price", "Unnamed: 5": 1.1265393636279, "Unnamed: 8": 0.2542096490921, "Unnamed: 14": 1.38074901272}
+{"Unnamed: 0": "Dividend Earning Shares", "Unnamed: 5": 173874511.56866568, "Unnamed: 8": 17526644.770254076, "Unnamed: 14": 191401156.33891976}
+{"Unnamed: 0": "Yield", "Unnamed: 5": -0.25034208080619996, "Unnamed: 8": -0.05561934814880004, "Unnamed: 14": -0.305961428955}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{"Unnamed: 5": 0, "Unnamed: 8": 0, "Unnamed: 14": 0}
+{}
+{}
+{"Unnamed: 4": "*** Generated by Northern Trust on 06 Oct 21   4:57:36AM CT     Report ID: 30000 Detail"}
