@@ -36,19 +36,30 @@ def search_knowledgebase(search_query):
     results = azcs_search_client.search(  
         search_text=search_query,  
         vectors=[vector],
-        select=["fundRow","fundtitle"]
+        select=["fundRow"],
+        top=1
     )  
     text_content = ""
-    for result in results: 
-        print(result) 
-        text_content += f"{result['fundtitle']}:{result['fundRow']}"
-    print("text_content", text_content)
+    for result in results:
+        text_content += f"{result['fundRow']}"
     return text_content
 
-search_query = "Show assets of ALPHA FND"
-text_content = search_knowledgebase(search_query)
-prompt = f"Given assets of ALPHA FND: {text_content}, show only total assets value with date without explanation"
-response = openai_client.completions.create(model=openai_gpt_model_deployment_name, prompt=prompt, max_tokens=200)
+
+fund_name = "Alpha FND"
+text_content = search_knowledgebase(fund_name)
+print(text_content)
+
+system_content = f"You are an AI assistant that extracts the data from the financial document for fund '{fund_name}'"
+user_content = f"Convert the following data data: '{text_content}' into a structured JSON and return only JSON in the response"
+
+print(system_content)
+
+response = openai_client.chat.completions.create(
+    model=openai_gpt_model_deployment_name, 
+    messages=[
+            {"role": "system", "content": system_content},
+            {"role": "user", "content": user_content}
+    ])
 
 print("*************************Result**************************")
-print(response)
+print(response.choices[0].message.content)

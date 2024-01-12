@@ -1,6 +1,6 @@
-import pandas as pd
 import uuid
 from openai import AzureOpenAI
+from extract_from_pdf import chunk_texts, extract_texts
 import os
 from dotenv import load_dotenv
 from azure.core.credentials import AzureKeyCredential  
@@ -34,9 +34,7 @@ index_client = SearchIndexClient(
     endpoint=search_service_endpoint, credential=credential)
 fields = [
     SimpleField(name="id", type=SearchFieldDataType.String, key=True, sortable=True, filterable=True, facetable=True),
-    SearchableField(name="fundtitle", type=SearchFieldDataType.String),
-    SearchableField(name="fundRow", type=SearchFieldDataType.String),
-
+    SearchableField(name="fundRow", type=SearchFieldDataType.String, filterable=True),
     SearchField(name="fundRowVector", type=SearchFieldDataType.Collection(SearchFieldDataType.Single),
                 searchable=True, vector_search_dimensions=1536, vector_search_configuration="my-vector-config")
 ]
@@ -75,32 +73,21 @@ def generate_embeddings(text):
 def add_or_update(document):
     azcs_search_client.merge_or_upload_documents(documents=document)
 
+# Example usage:
+pdf_data = open('Sample Financials Data - Balance Sheet (1).pdf', 'rb').read()
+extracted_texts = extract_texts(pdf_data)
+chunked_texts = chunk_texts(extracted_texts)
 
-# Path to the xlsx file
-file_path = 'Sample Financials Data - Balance Sheet.xlsx'
-
-# read by default 1st sheet of an excel file
-dataframe1 = pd.read_excel(file_path)
-
-fund_list = []
-for index, row in dataframe1.iterrows():
-    # To avoid rate limiting for OpenAI embedding endpoint as I used limited version. It only processes first 30 rows.
-    if index > 30:
-        break
-    first_col_value = str(row.iloc[0])
-
-    # Convert non-empty values in the row to strings and join them
-    row_as_str = ', '.join(str(value) for value in row if pd.notna(value))
-
-    fund_row_emb = generate_embeddings(row_as_str)
-    fund_document = {
+# Process and store all the chunked texts
+chunk_documents = []
+for chunk_text in chunked_texts:
+    chunk_embeddings = generate_embeddings(chunk_text)
+    chunk_document = {
         "id": str(uuid.uuid4()),
-        "fundtitle": first_col_value,
-        "fundRow": row_as_str,
-        "fundRowVector": fund_row_emb
+        "fundRow": chunk_text,
+        "fundRowVector": chunk_embeddings
     }
-    print(row_as_str)
-    fund_list.append(fund_document)
-        
-add_or_update(fund_list)
+    chunk_documents.append(chunk_document)
 
+# Call add_or_update only once after processing all chunks
+add_or_update(chunk_documents)

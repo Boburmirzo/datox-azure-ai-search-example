@@ -1,0 +1,186 @@
+{
+    "report": {
+        "title": "Balance Sheet",
+        "accountNumber": "4536923 - ALPHA FND",
+        "period": "01 Jan 23 - 30 Mar 23",
+        "page": "1 of 23"
+    },
+    "balances": {
+        "dateStart": "1-Jan-23",
+        "dateEnd": "30-Mar-23",
+        "assets": {
+            "total": "2,338,054,747.07",
+            "netChange": "-968,876,698.44",
+            "endTotal": "1,369,178,048.63",
+            "details": {
+                "securities": {
+                    "start": "2,298,013,376.49",
+                    "netChange": "-952,448,963.27",
+                    "end": "1,345,564,413.23",
+                    "information": "See Investment Positions List"
+                },
+                "cash": {
+                    "start": "23,112,571.23",
+                    "netChange": "-15,536,819.87",
+                    "end": "7,575,751.36",
+                    "information": "See Analysis of Cash Flow OR Cash and Foreign Currency"
+                },
+                "foreignCurrency": {
+                    "start": "2,377,397.24",
+                    "netChange": "-1,153,701.66",
+                    "end": "1,223,695.58",
+                    "information": "See Cash and Foreign Currency"
+                },
+                "accruedGrossIncome": {
+                    "start": "724,895.83",
+                    "netChange": "989,707.67",
+                    "end": "1,714,603.50",
+                    "information": "See Accrued Gross Income"
+                },
+                "accruedGrossWithholding": {
+                    "start": "-4,687.22",
+                    "netChange": "767.52",
+                    "end": "-3,919.70",
+                    "information": "See Accrued Net Withholding"
+                },
+                "spotContracts": {
+                    "start": "130,949.21",
+                    "netChange": "2,619,750.45",
+                    "end": "2,750,699.66",
+                    "information": "See Spot Contracts Payable/Receivable"
+                },
+                "securitiesSold": {
+                    "start": "10,409,783.83",
+                    "netChange": "-4,136,543.92",
+                    "end": "6,273,239.91",
+                    "information": "See Securities Purchased Payable/Sold Receivable"
+                },
+                "reclaims": {
+                    "start": "2,151,580.52",
+                    "netChange": "462,220.86",
+                    "end": "2,613,801.38",
+                    "information": "See Reclaim Receivable"
+                },
+                "prepaidExpenses": {
+                    "start": "1,138,879.93",
+                    "netChange": "326,883.78",
+                    "end": "1,465,763.71",
+                    "information": "See Prepaid Expenses"
+                }
+            }
+        },
+        "liabilities": {
+            "total": "-14,867,901.51",
+            "netChange": "3,245,238.48",
+            "endTotal": "-11,622,663.03",
+            "details": {
+                "accruedExpenses": {
+                    "start": "-3,319,497.60",
+                    "netChange": "-829,542.95",
+                    "end": "-4,149,040.55",
+                    "information": "See Accrued Expenses"
+                },
+                "accruedCapitalExpenses": {
+                    "start": "-626,748.52",
+                    "netChange": "234,275.89",
+                    "end": "-392,472.63"
+                },
+                "spotContracts": {
+                    "start": "-130,735.68",
+                    "netChange": "-2,633,683.37",
+                    "end": "-2,764,419.05",
+                    "information": "See Spot Contracts Payable/Receivable"
+                },
+                "income": {
+                    "start": "-2,004,657.18",
+                    "netChange": "2,004,657.18",
+                    "end": "0.00",
+                    "information": "See Income Payable"
+                },
+                "securitiesPurchased": {
+                    "start": "-8,786,262.53",
+                    "netChange": "4,469,531.73",
+                    "end": "-4,316,730.80",
+                    "information": "See Securities Purchased Payable/Sold Receivable"
+                }
+            }
+        },
+        "totalNetAssets": {
+            "start": "2,323,186,845.57",
+            "netChange": "-181,114,975.46",
+            "end": "2,142,071,870.11"
+        },
+        "equity": {
+            "total": "2,323,186,845.57",
+            "netChange": "-181,114,975.46",
+            "endTotal": "2,142,071,870.11",
+            "details": {
+                "subscriptions": {
+                    "start": "1,238,230,787.93",
+                    "netChange": "238,090,703.62",
+                    "end": "1,476,321,491.55",
+                    "information": "See Change in Redemptions/Subscriptions"
+                },
+                "netEqualization": {
+                    "start": "302,722.56",
+                    "netChange": "-954,242.53",
+                    "end": "-651,519.97",
+                    "information": "See Change in Redemptions/Subscriptions"
+                },
+                "redemptions": {
+                    "start": "-386,709,300.56",
+                    "netChange": "-689,824,474.42",
+                    "end": "-1,076,533,774.98",
+                    "information": "See Change in Redemptions/Subscriptions"
+                },
+                "capitalAssets": {
+                    "start": "254,608.96",
+                    "netChange": "110,288.47",
+                    "end": "364,897.43",
+                },
+                "capitalExpenses": {
+                    "start": "-38,292.03",
+                    "netChange": "-17,108.70",
+                    "end": "-55,400.73"
+                },
+                "priorCapitalExpenses": {
+                    "start": "-1,579,417.62",
+                    "netChange": "-301,409.12",
+                    "end": "-1,880,826.74"
+                },
+                "undistributedIncome": {
+                    "start": "-317,417.30",
+                    "netChange": "317,417.30",
+                    "end": "0.00"
+                },
+                "undistributedGainLoss": {
+                    "start": "500,336,010.24",
+                    "netChange": "-500,336,010.24",
+                    "end": "0.00"
+                },
+                "unrealizedMarketGainLoss": {
+                    "start": "1,010,961,660.29",
+                    "netChange": "-136,938,693.25",
+                    "end": "874,022,967.04",
+                    "information": "See Unrealized Market Gain/Loss"
+                },
+                "unrealizedExchangeGainLoss": {
+                    "start": "-38,254,516.90",
+                    "netChange": "21,375,095.38",
+                    "end": "-16,879,421.52"
+                }
+            }
+        },
+        "additionalFundInformation": {
+            "totalCapital": "852,078,818.89",
+            "totalAmortizedCost": "1,310,164,287.44",
+            "totalPeriodIncome": "0.00",
+            "totalPeriodNetIncome": "0.00",
+            "sharesOutstanding": "877,311,674.18",
+            "netAssetValue": "1.74",
+            "publicOfferingPrice": "1.75",
+            "dividendEarningShares": "877,311,674.18",
+            "yield": "-0.19"
+        }
+    }
+}
