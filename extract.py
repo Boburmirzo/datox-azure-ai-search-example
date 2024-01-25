@@ -27,7 +27,7 @@ search_service_endpoint = os.getenv("AZURE_SEARCH_SERVICE_ENDPOINT")
 search_service_admin_key = os.environ.get("AZURE_SEARCH_ADMIN_KEY")
 credential = AzureKeyCredential(search_service_admin_key)
 
-index_name = "balance-sheet-index"
+index_name = "balance-sheet-index-v2"
 
 # Create a search index
 index_client = SearchIndexClient(
